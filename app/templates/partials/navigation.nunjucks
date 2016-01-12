@@ -1,0 +1,6 @@
+{# not used, is just as an example for a partial#}
+<nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+</nav>

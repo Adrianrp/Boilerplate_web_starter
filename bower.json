@@ -1,0 +1,29 @@
+{
+  "name": "Web App Start Boilerplate",
+  "version": "0.1.0",
+  "authors": [
+    "Adrianrp <info@medula.dk>"
+  ],
+  "description": "Starting boilerplate with Gulp watch and auto browser reolad",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Adrianrp?tab=repositories",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "normalize-scss": "normalize.scss#~4.0.3",
+    "susy": "~2.2.7"
+  }
+}
